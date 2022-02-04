@@ -1,4 +1,5 @@
-# 😁 Olá! 
+# 😁 Hey! 
 
-aqui é um repositorio voltado para estudo, contendo exercícios soltos e exemplos para consulta.
+This is a repository where i'm gonna upload codes for consulting.
 
+Feel free to take a look.

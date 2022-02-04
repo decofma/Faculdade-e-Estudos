@@ -1,4 +1,4 @@
 # 😁 Olá! 
 
-Repositorio utilizado para exercícios e tarefas voltadas para estudo.
+Repositorio voltadas para estudo.
 
